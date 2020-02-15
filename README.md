@@ -11,5 +11,5 @@ En este sencillo ejemplo de implementacion aprenderemos sobre:
 
 Sigueme en mi cuenta en:
 
-- [![Blogger](https://damiangonzalezdev.blogspot.com/)]
-- [![Twitter](https://twitter.com/DamianDev1)]
+- [Blogger](https://damiangonzalezdev.blogspot.com/)
+- [Twitter](https://twitter.com/DamianDev1)
