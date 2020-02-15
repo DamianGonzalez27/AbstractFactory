@@ -1,4 +1,4 @@
-<?php namespace Concatenador;
+<?php namespace Implement;
 
 class Concatenador
 {
