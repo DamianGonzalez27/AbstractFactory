@@ -9,7 +9,48 @@ En este sencillo ejemplo de implementacion aprenderemos sobre:
 - Archivos necesarios para la implementacion
 - Flujo de trabajo del patron de diseño
 
-Sigueme en mi cuenta en:
+## Usando el Script
+
+- Clona el repositorio con el comando:
+
+```sh
+$ git clone https://github.com/DamianGonzalez27/AbstractFactory.git
+```
+
+- Una vez clonado el repositorio situate en la carpeta raiz del proyecto
+
+```sh
+$ cd AbstractFactory
+```
+
+- Ejecuta los comandos del script para ver los resultados
+
+> Suma
+```sh
+$ php Client.php suma valor1 valor2
+```
+
+> Resta
+```sh
+$ php Client.php resta valor1 valor2
+```
+
+> Hola
+```sh
+$ php Client.php hola valor
+```
+
+> Adios
+```sh
+$ php Client.php adios valor
+```
+
+> Concatenar
+```sh
+$ php Client.php concatenar valor1 valor2
+```
+
+### Sigueme en mis redes sociales:
 
 - [Blogger](https://damiangonzalezdev.blogspot.com/)
 - [Twitter](https://twitter.com/DamianDev1)
