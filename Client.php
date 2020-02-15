@@ -5,10 +5,10 @@ use Factorys\Objeto;
 
 class Client
 {
-    public $params;
-    public $method;
-    public $paramA;
-    public $paramB;
+    private $params;
+    private $method;
+    private $paramA;
+    private $paramB;
 
     public function __construct($params)
     {
