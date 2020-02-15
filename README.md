@@ -1,3 +1,7 @@
+
+<p align="center"><a href="https://damiangonzalezdev.blogspot.com/" target="_blank"><img src="https://www.dropbox.com/s/trz9upydwh0t1xz/0.jpeg?dl=0" width="400"></a></p>
+
+
 # Patron de diseño Abstract Factory en PHP
 
 
