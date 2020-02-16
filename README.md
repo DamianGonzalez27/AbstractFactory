@@ -31,6 +31,12 @@ $ git clone https://github.com/DamianGonzalez27/AbstractFactory.git
 $ cd AbstractFactory
 ```
 
+- Ejecuta el comando de instalacion de composer para instalar todas las dependencias necesarias
+
+```sh
+$ composer install
+```
+
 - Ejecuta los comandos del script para ver los resultados
 
 > Suma
