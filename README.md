@@ -13,6 +13,10 @@ En este sencillo ejemplo de implementacion aprenderemos sobre:
 - Archivos necesarios para la implementacion
 - Flujo de trabajo del patron de diseño
 
+## Requerimientos
+
+- Composer version 1.9.0 ^
+
 ## Usando el Script
 
 - Clona el repositorio con el comando:
